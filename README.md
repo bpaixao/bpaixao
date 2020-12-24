@@ -1,8 +1,7 @@
-### Bpaixao 👋
+### Hi, I'm Beatriz 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bpaixao)](https://github.com/bpaixao)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/beatrizspaixao/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thebpaixao)](https://twitter.com/thebpaixao)
+[![Bpaixao Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bpaixao)](https://github.com/bpaixao)
+[![Beatriz Paixão Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/beatrizspaixao/)
 
 
 🌱 I’m currently learning ...
