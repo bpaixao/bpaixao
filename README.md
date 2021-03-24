@@ -3,7 +3,6 @@
 💬 I'm just another tech student with a passion for developing and learning things. This is my portfolio!
 
 #### More about me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bpaixao)](https://github.com/bpaixao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/bpaixao/)
 
 Thank you for your visit! 😄
