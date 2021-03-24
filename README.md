@@ -1,13 +1,12 @@
 ### Hi, I'm Beatriz 👋
 
-🌱 I’m currently learning everything!
+💬 I'm just another tech student with a passion for developing and learning things. This is my portfolio!
 
-#### About me 
+#### More about me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bpaixao)](https://github.com/bpaixao)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/beatrizspaixao/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/bpaixao/)
 
-- Thanks for visiting. 
-
+Thank you for your visit! 😄
 
 
 
