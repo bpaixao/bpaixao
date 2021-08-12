@@ -1,25 +1,12 @@
-### Hi, I'm Beatriz 👋
 
-💬 I'm just another tech student with a passion for developing and learning things. This is my portfolio!
+### Hello! 👋
+I am student in systems analysis and development at <a href="https://www.ifsp.edu.br/">IFSP</a> lokin
+- 🔭 I'm currently working on named entities recognition. Also, I'm improving my data structures and algorithms skills regularly.
+- 🌱 I'm improving knowledge of machine learning and deep learning
+- 🤝 I'm looking to collaborate on data science projects and web systems development.
 
-#### More about me 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizspaixao/)](https://www.linkedin.com/in/bpaixao/)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=bpaixao)
 
-Thank you for your visit! 😄
-
-
-
-<!--
-**bpaixao/bpaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/itsbpaixao) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bpaixao/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itsbpaixao/) 
