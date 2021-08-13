@@ -7,6 +7,8 @@ I am student in systems analysis and development at <a href="https://www.ifsp.ed
 
 This is my portfolio and thanks for visiting, see ya!
 
+## <img src="https://komarev.com/ghpvc/?username=bpaixao&color=blue" alt="bpaixao" /> 
+
 <div>
   <a href="https://github.com/bpaixao">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bpaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,11 +16,13 @@ This is my portfolio and thanks for visiting, see ya!
     
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+  
 </div>
   
   ##
@@ -26,8 +30,7 @@ This is my portfolio and thanks for visiting, see ya!
 <div> 
   <a href ="https://twitter.com/itsbpaixao" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
    <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bpaixao@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bpaixao@live.com"><img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bpaixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+   
 </div>
