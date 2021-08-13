@@ -7,7 +7,7 @@ I am student in systems analysis and development at <a href="https://www.ifsp.ed
 
 This is my portfolio and thanks for visiting, see ya!
 
-## <img src="https://komarev.com/ghpvc/?username=bpaixao&color=blue" alt="bpaixao" /> 
+
 
 <div>
   <a href="https://github.com/bpaixao">
