@@ -1,6 +1,7 @@
 
 ### Hi, I'm Beatriz! 👋
 I am student in systems analysis and development at <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a>, generalist by nature but trying to get deeper into data engineering.
+
 - 🔭 I'm currently working on named entities recognition. Also, I'm improving my data structures and algorithms skills regularly.
 - 🤝 I'm looking to collaborate on data science projects and web systems development.
 
