@@ -10,10 +10,10 @@ This is my portfolio and thanks for visiting!
 
 <div>
   <a href="https://github.com/bpaixao">
-   <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpaixao&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="150em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpaixao&layout=compact&langs_count=7&theme=dark"/> 
   </a>
   <a href="https://github.com/bpaixao">
-   <img height="170em" width="350em"  src="https://github-readme-stats.vercel.app/api?username=bpaixao&show_icons=true&theme=dark"/> 
+    <img height="150em" width="330em" src="https://github-readme-stats.vercel.app/api?username=bpaixao&show_icons=true&theme=dark"/> 
   </a>
 
  </div>
@@ -21,7 +21,7 @@ This is my portfolio and thanks for visiting!
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
