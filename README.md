@@ -1,7 +1,7 @@
 
 ### Hello, I'm Beatriz!
-I'm student at <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo) graduating in analysis and systems development. 
-Generalist by nature but trying to get deeper into data engineering.
+I'm graduated by <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo) in analysis and systems development. 
+Generalist by nature but trying to get deeper into Data Science.
 
 - I'm currently working on named entities recognition. Also, I'm improving my data structures and algorithms skills regularly.<br>
 - I'm looking to collaborate on data science projects and web systems development.
