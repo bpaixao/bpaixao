@@ -10,10 +10,10 @@ This is my portfolio and thanks for visiting!
 
 <div>
   <a href="https://github.com/bpaixao">
-    <img height="150em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpaixao&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="200px" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpaixao&layout=compact&langs_count=7&theme=dark"/> 
   </a>
   <a href="https://github.com/bpaixao">
-    <img height="160em" width="330em" src="https://github-readme-stats.vercel.app/api?username=bpaixao&show_icons=true&theme=dark"/> 
+    <img height="200px" width="370px" src="https://github-readme-stats.vercel.app/api?username=bpaixao&show_icons=true&theme=dark"/> 
   </a>
  </div>
  
