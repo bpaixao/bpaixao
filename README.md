@@ -30,8 +30,10 @@ This is my portfolio and thanks for visiting!
   ##
  #### My contacts:  
 <div> 
-  <a href ="https://twitter.com/itsbpaixao" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href = "mailto:bpaixao@live.com"><img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bpaixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+  <a href = "mailto:bpaixao@live.com"><img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://twitter.com/itsbpaixao" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href ="https://instagram.com/itsbpaixao" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href ="https://www.facebook.com/beatriz.spaixao/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  
 </div>
