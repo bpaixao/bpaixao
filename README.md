@@ -1,13 +1,12 @@
 
 ### Hello, I'm Beatriz!
 
-I'm a software developer, graduated by <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo). Generalist by nature.
+I'm a software developer, graduated from <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo). I consider myself a very generalist, curious and determined person. These qualities make me really want to get to know the area of technology more and more. What I've already done: 
 
-- I worked on projects with named entities recognition. Also, I'm improving my data structures and algorithms skills regularly.<br>
-- Looking to collaborate on data science projects and web systems development.
+- I worked on projects with named entities recognition.<br>
+- I'm improving my data structures and algorithms skills regularly.<br>
 
-This is my portfolio and thanks for visiting!
-
+And Looking to collaborate on data science projects and web systems development. This is my portfolio and thanks for visiting!
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
