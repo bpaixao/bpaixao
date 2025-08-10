@@ -1,7 +1,7 @@
 
 ### Hi, I'm Beatriz!
 
-I'm a junior software developer who graduated from the <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Federal Institute of Education, Science and Technology of São Paulo). I consider myself a very generalist, curious and determined person. These qualities make me very keen to learn about and be part of the technology field. What I've already done:
+I'm a software developer who graduated from the <a href="https://www.ifsp.edu.br/" target="_blank">IFSP</a> (Federal Institute of Education, Science and Technology of São Paulo). I consider myself a very generalist, curious and determined person. These qualities make me very keen to learn about and be part of the technology field. What I've already done:
 
 - I've worked on projects with recognition from named entities.<br>
 - I work as a full-stack web developer.<br>
